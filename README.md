@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- Multi-line Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=🚀+WELCOME+TO+THE+FUTURE+OF+WEB+DEVELOPMENT;💎+Crafting+Pixel-Perfect+Experiences+Since+Day+One;⚡+Building+Tomorrow's+Web+Applications+Today;🌟+Where+Innovation+Meets+Exceptional+Performance;🎯+Transforming+Ideas+Into+Digital+Masterpieces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%F0%9F%9A%80+WELCOME+TO+THE+FUTURE+OF+WEB+DEVELOPMENT;%F0%9F%92%8E+Crafting+Pixel-Perfect+Experiences+Since+Day+One;%E2%9A%A1+Building+Tomorrow%27s+Web+Applications+Today;%F0%9F%8C%9F+Where+Innovation+Meets+Exceptional+Performance;%F0%9F%8E%AF+Transforming+Ideas+Into+Digital+Masterpieces" alt="Typing SVG" />
 
 </div>
 
