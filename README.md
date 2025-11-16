@@ -29,6 +29,7 @@
 <div align="center">
   
 ## 🌌 ABOUT THIS COSMIC ARCHITECT
+![item4_4](https://github.com/user-attachments/assets/245cb28d-de2b-4970-8b12-4bbb040fa52d)
 
 </div>
 
