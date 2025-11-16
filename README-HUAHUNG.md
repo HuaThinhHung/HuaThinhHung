@@ -1,6 +1,7 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/ZHkz7F5.gif" width="100%" />
+  <img src="![huahung](https://github.com/user-attachments/assets/e34f5883-0fdd-48ba-8275-51331df1f8e3)
+" width="100%" />
 </div>
 
 <br/>
