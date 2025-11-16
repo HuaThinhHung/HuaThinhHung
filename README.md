@@ -1,111 +1,126 @@
-<!-- Banner -->
+<!-- Neon Banner -->
 <div align="center">
-  <img src="![huahung](https://github.com/user-attachments/assets/e34f5883-0fdd-48ba-8275-51331df1f8e3)
-" width="100%" />
+  <img src="https://i.imgur.com/cZud8kS.gif" width="100%" />
 </div>
 
 <br/>
 
-<h1 align="center">👋 Hi, I'm Hưng Hứa Thịnh</h1>
-<h3 align="center">💻 Front-end Developer | React • Next.js • TypeScript</h3>
+<h1 align="center">
+  <span style="font-size: 45px; font-weight: bold; color: #00eaff;">
+    🚀 Hưng Hứa Thịnh
+  </span>
+</h1>
 
----![item4_4](https://github.com/user-attachments/assets/c2172b70-a571-4fd1-830a-50154f48a07b)
+<h3 align="center">
+  💻 Front-end Developer • React • Next.js • TypeScript  
+</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=00E7FF&center=true&vCenter=true&width=500&lines=Front-end+Developer;ReactJS+%7C+NextJS+%7C+TypeScript;Clean+UI+%2B+High+Performance;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me
-- 💼 Front-end Developer  
-- 🏡 From **Bạc Liêu**, currently living in **Hồ Chí Minh City**  
-- 🌱 Love building UI/UX đẹp, clean, performance  
-- 🎯 Goal: Full-stack Dev with **Next.js + NestJS + Docker**
+---
+![Uploading item4_4.gif…]()
+
+## 🧑‍💻 About Me
+- 🔥 Front-end Developer với phong cách UI sạch + tối ưu performance  
+- 📍 Sống tại **Hồ Chí Minh**, quê **Bạc Liêu**  
+- 🎯 Full-stack path: **Next.js → NestJS → Docker → Microservices**  
+- ⚡ Tập trung vào UX tốt, tối ưu tốc độ, code chất lượng  
+- 🧠 Triết lý: *"UI để ghi điểm – Logic để giữ người dùng."*
 
 ---
 
-## 💡 Front-end Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,git" />
+# ⚡ Tech Stack (Neon Badges)
+
+### **🎨 Front-end**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,git" />
 </p>
 
-**FE chi tiết bạn thành thạo:**
-- Java  
-- JavaScript  
-- TypeScript  
-- ReactJS  
-- NextJS  
-- SASS  
-- TailwindCSS  
-- Git  
-- SDN (Static Delivery Network)
-
----
-
-## 🧩 Back-end Skills
-<p>
+### **🧩 Back-end**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,nestjs,docker,graphql" />
 </p>
 
-**BE chi tiết bạn biết:**
-- MySQL  
-- ExpressJS  
-- Authentication (JWT, session...)  
-- Prisma ORM  
-- NestJS  
-- Docker  
-- GraphQL  
-- API Design & Middleware  
-
 ---
 
-## 📫 Contact Me
-- **Email:** huahung0601@gmail.com  
-- **Facebook:** https://www.facebook.com/huahung0601  
-- **Phone/Zalo:** 0866 865 440  
+# 📬 Contact
 
----
+<div align="left">
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HuaThinhHung&show_icons=true&theme=radical" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaThinhHung&layout=compact&theme=radical" height="160"/>
+**📧 Email:** `huahung0601@gmail.com`  
+**📘 Facebook:** https://facebook.com/huahung0601  
+**📱 Phone/Zalo:** 0866 865 440  
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+# 📊 GitHub Analytics (Neon Mode)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HuaThinhHung&show_icons=true&theme=tokyonight&hide_border=true&line_height=24" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaThinhHung&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+# 🌟 Highlight Projects (Best Work)
 
 ### 🔹 **Airbnb Clone – Next.js**
-👉 Demo: *chèn link của bạn*  
-👉 Tech: Next.js, Tailwind, Prisma, MongoDB  
-👉 Features: Auth, booking, rooms, admin dashboard
+🔥 Full UI/UX đẹp như bản thật  
+🚀 Tech: Next.js, Tailwind, Prisma, MongoDB  
+🔐 Auth / Booking / Rooms / Admin Panel  
+👉 *Thay link demo vào đây*
 
 ---
 
 ### 🔹 **Social Network App – Android**
-👉 Tech: Java, Firebase  
-👉 CRUD Post, Comment, Notification  
-👉 Realtime UI, Firebase Auth
+✦ CRUD Post / Comment / Like  
+✦ Firebase Realtime + Auth  
+✦ UI mượt, animation nhẹ  
 
 ---
 
 ### 🔹 **Full-stack App – Next.js + NestJS**
-👉 JWT Auth, Role-based  
-👉 Docker Setup  
-👉 Prisma ORM + MySQL
+⚙ JWT, Refresh Token  
+🛢 Prisma + MySQL  
+🐳 Docker Dev Environment  
+🚧 API Optimization  
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake (Premium)
 <div align="center">
   <img src="https://raw.githubusercontent.com/HuaThinhHung/HuaThinhHung/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
+# 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HuaThinhHung&theme=radical&no-frame=true&margin-w=10&row=1" />
+</div>
+
+---
+
+# 💬 Final Quote
 <div align="center">
   
-### ⭐ If you like my work, consider giving a star!
+✨ *"Clean UI is not just design — it's an experience."*  
+✨ *"Code less, build more – focus on impact."*
+
+</div>
+
+---
+
+<div align="center">
+  
+## ⭐ If this profile looks cool, drop a star on my repositories!
 
 </div>
