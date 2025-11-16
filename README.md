@@ -6,46 +6,58 @@
 <br/>
 
 <h1 align="center">👋 Hi, I'm Hưng Hứa Thịnh</h1>
-<h3 align="center">💻 Web & Mobile Developer | Next.js | TypeScript | UI Enthusiast</h3>
+<h3 align="center">💻 Front-end Developer | React • Next.js • TypeScript</h3>
 
----
+---![item4_4](https://github.com/user-attachments/assets/c2172b70-a571-4fd1-830a-50154f48a07b)
+
 
 ## 🚀 About Me
-- 🌱 Currently focusing on **Next.js, TypeScript, UI/UX**
-- ⚡ Passionate about building clean UI and modern web apps  
-- 📍 From **Bạc Liêu 🇻🇳**  
-- 🎯 Goal 2025: Become Full-stack Dev (Next.js + NestJS)
+- 💼 Front-end Developer  
+- 🏡 From **Bạc Liêu**, currently living in **Hồ Chí Minh City**  
+- 🌱 Love building UI/UX đẹp, clean, performance  
+- 🎯 Goal: Full-stack Dev with **Next.js + NestJS + Docker**
 
 ---
 
-## 🛠 Tech Stack
-
-### **Frontend**
+## 💡 Front-end Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,git" />
 </p>
 
-### **Backend**
+**FE chi tiết bạn thành thạo:**
+- Java  
+- JavaScript  
+- TypeScript  
+- ReactJS  
+- NextJS  
+- SASS  
+- TailwindCSS  
+- Git  
+- SDN (Static Delivery Network)
+
+---
+
+## 🧩 Back-end Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,nestjs,docker,graphql" />
 </p>
 
-### **Mobile**
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker" />
-</p>
+**BE chi tiết bạn biết:**
+- MySQL  
+- ExpressJS  
+- Authentication (JWT, session...)  
+- Prisma ORM  
+- NestJS  
+- Docker  
+- GraphQL  
+- API Design & Middleware  
 
 ---
 
 ## 📫 Contact Me
-- **📧 Gmail:** huahung0601@gmail.com  
-- **📘 Facebook:** [facebook.com/huahung0601](https://www.facebook.com/huahung0601/)  
-- **📱 Phone/Zalo:** 0866 865 440  
+- **Email:** huahung0601@gmail.com  
+- **Facebook:** https://www.facebook.com/huahung0601  
+- **Phone/Zalo:** 0866 865 440  
 
 ---
 
@@ -68,26 +80,31 @@
 👉 Tech: Next.js, Tailwind, Prisma, MongoDB  
 👉 Features: Auth, booking, rooms, admin dashboard
 
-### 🔹 **Social Network App (Android)**
-👉 CRUD Post, Comment, Login  
+---
+
+### 🔹 **Social Network App – Android**
 👉 Tech: Java, Firebase  
-👉 Clean UI + realtime updates  
+👉 CRUD Post, Comment, Notification  
+👉 Realtime UI, Firebase Auth
 
 ---
 
-## 🐍 Contribution Snake (cho đẹp)
+### 🔹 **Full-stack App – Next.js + NestJS**
+👉 JWT Auth, Role-based  
+👉 Docker Setup  
+👉 Prisma ORM + MySQL
+
+---
+
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/HuaThinhHung/HuaThinhHung/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## 💬 Quote
-> *“Code là để chạy — nhưng UI là để ghi điểm.”*  
-> — Hưng Hứa Thịnh
-
----
-
 <div align="center">
-### ⭐ If you like my work, consider giving ⭐ to my repositories!
+  
+### ⭐ If you like my work, consider giving a star!
+
 </div>
