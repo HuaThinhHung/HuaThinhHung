@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <span style="font-size: 45px; font-weight: bold; color: #00eaff;">
-    🚀 Hưng Hứa Thịnh
+    🚀 Hứa Thịnh Hưng
   </span>
 </h1>
 
@@ -20,7 +20,7 @@
 </div>
 
 ---
-![Uploading item4_4.gif…]()
+![item4_4](https://github.com/user-attachments/assets/c7b3c317-4a0a-4a73-b1a5-bfb4303636d9)
 
 ## 🧑‍💻 About Me
 - 🔥 Front-end Developer với phong cách UI sạch + tối ưu performance  
